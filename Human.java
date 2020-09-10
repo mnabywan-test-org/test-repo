@@ -7,6 +7,9 @@ public class Human{
         this.age = age;
     }
 
+
+
+
     public void print(){
         System.out.println("Human: " + name + " age: " + age);
     }
